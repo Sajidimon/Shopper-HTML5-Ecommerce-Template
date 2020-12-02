@@ -1,0 +1,34 @@
+@media only screen and (max-width: 980px) {
+
+    .search-box {
+        width: 100%;
+    }
+
+    .menu-bar {
+        width: 100%;
+    }
+
+    .menu-bar ul {
+        margin: 10px 0;
+        width: 100%;
+    }
+
+    .top-nav-bar {
+        height: 118px;
+        border-bottom: 0;
+    }
+
+    .menu-bar ul li {
+        height: 57px;
+        width: 100%;
+    }
+    
+    /*sider responsive design start from here*/
+    
+ 
+    @media only screen and (max-width: 576px) {
+    .testi-section {
+	    margin-top: 70px;
+    }
+        
+    }
